@@ -1,0 +1,97 @@
+-------------------------------------------------
+PLATINA CSC
+-------------------------------------------------
+ADM - Frente e Verso endereço:  \\192.0.0.61\csc-adm-frenteverso-sp5200s
+ADM - Preto endereço: \\192.0.0.61\csc-adm-preto-sp5200s
+ADM Rascunho endereço: \\192.0.0.61\csc-adm-rascunho-sp5200s
+Comercial - Preto endereço: \\192.0.0.61\csc-comercial-preto-sp5200s
+Comercial - Rascunho endereço: \\192.0.0.61\csc-comercial-rascunho-sp5200s
+Exportação - Frente e Verso endereço: \\192.0.0.61\csc-exportacao-frenteverso-sp377sfnwx
+Exportação - Preto endereço: \\192.0.0.61\csc-exportacão-preto-sp377sf
+Exportação - Rascunho endereço: \\192.0.0.61\csc-exportacao-rascunho-sp377sfnwx
+Marketing - A3 endereço: \\192.0.0.61\csc-mkt-a3-c368
+Marketing - Colorida endereço: \\192.0.0.61\csc-mkt-colorida-c368
+Marketing - Frente e Verso endereço: \\192.0.0.61\esc-mkt-frenteverso-c368
+Marketing - Preto endereço: \\192.0.0.61\esc-mkt-preto-c368
+-------------------------------------------------
+PLATINA LOG
+-------------------------------------------------
+\\\\192.0.0.61\\log-adm-preto-c3002
+\\\\192.0.0.61\\platina-log-adc-colorida
+\\\\192.0.0.61\\platina-log-adm-preto
+\\\\192.0.0.61\\platina-log-adm-rascunho
+
+\\\\192.0.0.61\\platina-log-ambulatorio-preto-m320f
+
+\\\\192.0.0.61\\platina-log-exp-frenteverso-c368
+\\\\192.0.0.61\\platina-log-exp-preto-c368
+\\\\192.0.0.61\\platina-log-exp-rascunho-c368
+\\\\192.0.0.61\\log-exp-zebra-zt230
+
+\\\\192.0.0.61\\platina-log-rec-zgk420t
+
+\\\\192.0.0.61\\platina-log-seg-frenteverso-sp3710sf
+\\\\192.0.0.61\\platina-log-seg-preto-sp3710sf
+\\\\192.0.0.61\\platina-log-seg-rascunho-sp3710sf
+-------------------------------------------------
+MASTERLINE
+-------------------------------------------------
+\\\\192.0.0.61\\mln-adm-a3-mpc3503
+\\\\192.0.0.61\\mln-adm-colorida-mpc3503
+\\\\192.0.0.61\\mln-adm-frenteverso-mpc3503
+\\\\192.0.0.61\\mln-adm-grosso-mpc3503
+\\\\192.0.0.61\\mln-adm-preto-mpc3503
+\\\\192.0.0.61\\mln-adm-rascunho-mpc3503
+\\\\192.0.0.61\\mln-almoxpigmento-sankhya-zebrazm400
+\\\\192.0.0.61\\mln-almoxquimica-etiquetas-zebrazm400
+\\\\192.0.0.61\\mln-almoxquimica-frenteverso-brother8157
+\\\\192.0.0.61\\mln-almoxquimica-preto-brother8157
+\\\\192.0.0.61\\mln-almoxquimica-rascunho-brother8157
+\\\\192.0.0.61\\mln-almoxrotulos-preto-hpp1102w
+\\\\192.0.0.61\\mln-almoxrotulos-sankhya-zebrazt410
+\\\\192.0.0.61\\mln-ambulatorio-frenteverso-sp5210sf
+\\\\192.0.0.61\\mln-ambulatorio-preto-sp5210sf
+\\\\192.0.0.61\\mln-dp-colorida-mpc3003
+\\\\192.0.0.61\\mln-dp-frenteverso-mpc3003
+\\\\192.0.0.61\\mln-dp-preto-mpc3003
+\\\\192.0.0.61\\mln-dp-rascunho-mpc3003
+\\\\192.0.0.61\\mln-envase-preto-sp5200s
+\\\\192.0.0.61\\mln-etiquetas-corpore01-zebrazt410
+\\\\192.0.0.61\\mln-etiquetas-corpore02-zebrazt410
+\\\\192.0.0.61\\mln-etiquetas-corpore03-zebrazt410
+\\\\192.0.0.61\\mln-etiquetas-corporeO5-zebrazt411
+\\\\192.0.0.61\\mln-etiquetas-corpore06-zebrazt411
+\\\\192.0.0.61\\mln-etiquetas-corpore07-zebrazt411
+\\\\192.0.0.61\\mln-fisicoquimico-sankhyal-zebrazt411
+
+\\\\192.0.0.61\\mln-manutencao-frenteverso-sp5210sf
+\\\\192.0.0.61\\mln-manutencao-preto-sp5210sf
+\\\\192.0.0.61\\mln-manutencao-rascunho-sp5210sf
+
+\\\\192.0.0.61\\mln-ped-a3-mpc3003
+\\\\192.0.0.61\\mln-ped-colorida-mpc3003
+\\\\192.0.0.61\\mln-ped-etiquetas-mpc3003
+\\\\192.0.0.61\\mln-ped-preto-mpc3003
+\\\\192.0.0.61\\mln-dp-fernteverso-sp5200s **
+\\\\192.0.0.61\\mln-ped-rascunho-mpc3003
+
+\\\\192.0.0.61\\mln-pesagem-sankhya-zebras4m
+\\\\192.0.0.61\\mln-pesagem-sankhya-zebrazt410
+-------------------------------------------------
+MASTERLINE EMBALAGEM
+-------------------------------------------------
+\\\\192.0.0.61\\mln-emabalagem-sankhya-zebrazm400
+\\\\192.0.0.61\\mln-embalagem-frenteverso-sp5200s
+\\\\192.0.0.61\\mln-embalagem-preto-sp5200s
+-------------------------------------------------
+MASTERLINE LOG
+-------------------------------------------------
+\\\\192.0.0.61\\mln-log-estoque-frenteverso-sp5210sf
+\\\\192.0.0.61\\mln-log-estoque-preto-sp5210sf
+\\\\192.0.0.61\\mln-log-estoque-rascunho-sp5210sf
+\\\\192.0.0.61\\mln-log-estoque-sankhya-gk420t
+-------------------------------------------------
+NÃO INSERIDAS, PRECISA REVISAR
+-------------------------------------------------
+Keila endereço: \\192.0.0.61\csc-keila-1102w
+\\192.0.0.61\mln-backup-preto-hpp1102w
