@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
     function adicionarImpressora(printerName) {
         console.log('Printer name:', printerName);
 
-        fetch('/adicionarImpressora', {
+        fetch('/adicionar_impressora',{
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
@@ -14,6 +14,14 @@ document.addEventListener('DOMContentLoaded', function () {
             body: JSON.stringify({ 'printerName': printerName })
         })
         .then(response => {
+            console.log('Response status:', response.status);
+            return response.json();
+        })
+        .then(data => {
+            console.log('Response data:', data);
+            if (data.message) {
+                console.log(data.message);
+            }
             if (response.ok) {
                 console.log('Printer added successfully');
                 alert('Impressora adicionada com sucesso!');
@@ -29,6 +37,7 @@ document.addEventListener('DOMContentLoaded', function () {
             console.error('Error:', error);
             alert('Error: ' + error);
         });
+        ;
     }
 
     let btnAdicionar = document.querySelectorAll('.btn-adicionar');
